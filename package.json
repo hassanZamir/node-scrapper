@@ -1,0 +1,19 @@
+{
+  "name": "scrapper",
+  "version": "0.1.0",
+  "scripts": {},
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.5",
+    "puppeteer": "^8.0.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "sitemap": "^6.4.0",
+    "sitemap-generator": "^8.5.1"
+  },
+  "devDependencies": {},
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
